@@ -1,2 +1,2 @@
 # javascript
-js
+scripts, codes, cases, solutions and studies regarding js
